@@ -1,0 +1,26 @@
+@media only screen and (max-width: 786px) {
+    
+    .backimg
+{
+    background-image: url('backimg.png');
+    height: 30vh;
+    /* padding:30%; */
+    background-position: center;
+    background-size: cover;
+    background-repeat: no-repeat;
+}
+}
+/* @media only screen and (max-width: 992px) {
+    
+    .backimg
+{
+    background-image: url('backimg.png');
+    height: 100vh;
+    padding:30%;
+    width: 1140px;
+    height: 646px;
+    background-position: center;
+    background-size: cover;
+    background-repeat: no-repeat;
+}
+} */

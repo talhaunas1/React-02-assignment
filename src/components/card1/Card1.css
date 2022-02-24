@@ -1,0 +1,194 @@
+@media only screen and (max-width: 786px)
+{
+    .card1
+{
+    /* Auto layout */
+
+display: flex;
+flex-direction: column;
+justify-content: center;
+align-items: flex-start;
+padding: 20px 20px 40px;
+
+position: absolute;
+width: 292px;
+height: 197px;
+left: 216px;
+top: 152px;
+
+background: #a32727;
+/* Neutral/100 */
+
+border: 1.4px solid #E0E3EB;
+box-sizing: border-box;
+border-radius: 4px;
+}
+
+
+
+.card1 img{
+    position: static;
+width: 40px;
+height: 40px;
+left: 20px;
+top: 20px;
+
+
+/* Inside auto layout */
+
+flex: none;
+order: 0;
+flex-grow: 0;
+margin: 18px 0px;
+}
+.card1 h4{
+    position: static;
+width: 135px;
+height: 23px;
+left: 20px;
+top: 78px;
+
+font-family: Work Sans;
+font-style: normal;
+font-weight: bold;
+font-size: 20px;
+line-height: 23px;
+
+/* Neutral/700 */
+
+color: #3D445C;
+
+
+/* Inside auto layout */
+
+flex: none;
+order: 1;
+flex-grow: 0;
+margin: 18px 0px;
+}
+.card1 p{
+    position: static;
+width: 254px;
+height: 38px;
+left: 20px;
+top: 119px;
+
+/* Caption */
+
+font-family: Work Sans;
+font-style: normal;
+font-weight: normal;
+font-size: 16px;
+line-height: 19px;
+
+/* Neutral/400 */
+
+color: #858EAD;
+
+
+/* Inside auto layout */
+
+flex: none;
+order: 2;
+flex-grow: 0;
+margin: 18px 0px;
+}
+
+} 
+
+/* @media only screen and (min-width: 992px)
+{
+    .Card1
+{
+    
+
+display: flex;
+flex-direction: column;
+justify-content: center;
+align-items: flex-start;
+padding: 20px 20px 40px;
+
+position: absolute;
+width: 292px;
+height: 197px;
+left: 216px;
+top: 152px;
+
+background: #FFFFFF;
+
+
+border: 1.4px solid #E0E3EB;
+box-sizing: border-box;
+border-radius: 4px;
+}
+
+.Card1 img{
+    position: static;
+width: 40px;
+height: 40px;
+left: 20px;
+top: 20px;
+
+
+
+
+flex: none;
+order: 0;
+flex-grow: 0;
+margin: 18px 0px;
+}
+.Card1 h4{
+    position: static;
+width: 135px;
+height: 23px;
+left: 20px;
+top: 78px;
+
+font-family: Work Sans;
+font-style: normal;
+font-weight: bold;
+font-size: 20px;
+line-height: 23px;
+
+
+
+color: #3D445C;
+
+
+
+
+flex: none;
+order: 1;
+flex-grow: 0;
+margin: 18px 0px;
+}
+.Card1 p{
+    position: static;
+width: 254px;
+height: 38px;
+left: 20px;
+top: 119px;
+
+
+
+font-family: Work Sans;
+font-style: normal;
+font-weight: normal;
+font-size: 16px;
+line-height: 19px;
+
+
+
+color: #858EAD;
+
+
+
+
+flex: none;
+order: 2;
+flex-grow: 0;
+margin: 18px 0px;
+}
+
+
+} */
