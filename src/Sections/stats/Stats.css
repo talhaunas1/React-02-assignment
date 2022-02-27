@@ -1,0 +1,52 @@
+.stat
+{
+    height: 723px;
+
+background: #FFFFFF;
+background-color: #a8abb4;
+}
+/* .gridnd
+{
+    background-color: blueviolet;
+} */
+.imgg
+{
+    width: 500px;
+margin: 3% 15%;
+}
+h6{
+    width: 359px;
+height: 140px;
+
+
+/* Heading/2 */
+
+font-family: Work Sans;
+font-style: normal;
+font-weight: bold;
+font-size: 60px;
+line-height: 70px;
+
+/* Primary */
+
+color: #2947A9;
+
+}
+p{
+    
+width: 330px;
+height: 74px;
+
+
+/* Body/medium */
+
+font-family: Work Sans;
+font-style: normal;
+font-weight: normal;
+font-size: 20px;
+line-height: 23px;
+
+/* Neutral/600 */
+
+color: #525B7A;
+}

@@ -1,22 +1,14 @@
-@media only screen and (max-width: 786px) 
-{
-    .reason
+
+.reason
 {
     
 height: 433px;
 
-/* right: 0px; */
-
-
-/* margin-top: -113%; */
-background: rgb(255, 255, 255);
-border: 1px  solid black;
-
+background: #FFFFFF;
+/* background-color: burlywood; */
 }
 
-
-.text1
-{
+.text {
     
 height: 42px;
 
@@ -26,40 +18,26 @@ height: 42px;
 font-family: Work Sans;
 font-style: normal;
 font-weight: bold;
-font-size: 24px;
+font-size: 36px;
 line-height: 42px;
 text-align: center;
 
 /* Neutral/800 */
-
+background-color: aqua;
 color: #292E3D;
+margin-top: 5%;
 
 }
-}  
 
-/* @media only screen and (min-width: 992px) {
-    .text1{
-        height: 42px;
-
-        font-style: normal;
-        font-family: Work Sans;
-        font-size: 36px;
-        font-weight: bold;
-        text-align: center;
-        line-height: 42px;
-
-        color: #292E3D;
-    }
-    
-    .reason
+.card_1
 {
-    position: absolute;
-height: 433px;
-left: 0px;
-right: 0px;
-top: 726px;
-
-background: #FFFFFF;
-
+    display: flex;
+    justify-content: space-evenly;
+    /* background-color: aqua; */
+    margin-right: 5%;
+    margin-top: 5%;
 }
-} */
+.grid1
+{
+    /* background-color: yellow; */
+}
